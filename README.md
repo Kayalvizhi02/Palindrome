@@ -7,13 +7,13 @@ To write a C# program to find whether the given string is a Palindrome or not.
 ### Step1:
 Start.
 ### Step2:
-
+Create a class and declare the variable with string datatype.
 ### Step3:
-
+Get the string from the user and store the string in the value variable.
 ### Step4:
-
+Store the value data to another variable and use the for loop function to check the condition.
 ### Step5:
-
+Use if - else condition to print that the given string is palindrome or not.
 ### Step6:
 stop.
 
